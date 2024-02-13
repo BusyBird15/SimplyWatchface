@@ -1,5 +1,5 @@
 # SimplyWatchface
-"Simply" family of watchfaces in the Zepp watchface store for the Amazfit Bip 3 / Bip 3 Pro.
+A simple watchface for anyone who loves simplicity or organization, or those with poor eyesight. Available in the Zepp watchface store for the Amazfit Bip 3 / Bip 3 Pro.
+<br><br>
 
-# 1. High-contrast
-()[https://github.com/BusyBird15/SimplyWatchface/blob/main/README_icons/Simple%20hc%20Icon.png]
+![](https://github.com/BusyBird15/SimplyWatchface/blob/main/README_icons/Simple%20hc%20Icon.png)
